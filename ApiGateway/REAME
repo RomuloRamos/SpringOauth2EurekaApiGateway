@@ -1,0 +1,2 @@
+It's a simple Gateway project, using Spring Cloud Gateway Server to routes
+requests for microservices that's runnig on diffent ports

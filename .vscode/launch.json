@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AlbunsApplication<albuns>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appsdeveloperblog.albuns.AlbunsApplication",
+            "projectName": "albuns",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PhotosApplication<photos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appsdeveloperblog.photos.PhotosApplication",
+            "projectName": "photos",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ResourceserverApplication<resourceserver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appsdeveloperblog.resourceserver.ResourceserverApplication",
+            "projectName": "resourceserver",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiGatewayApplication<ApiGateway>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appdeveloperblog.ws.api.ApiGateway.ApiGatewayApplication",
+            "projectName": "ApiGateway",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryserviceApplication<discoveryservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appdeveloperblog.ws.api.discoveryservice.DiscoveryserviceApplication",
+            "projectName": "discoveryservice",
+            "args": ""
+        }
+    ]
+}
