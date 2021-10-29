@@ -49,6 +49,16 @@
             "mainClass": "com.appdeveloperblog.ws.api.discoveryservice.DiscoveryserviceApplication",
             "projectName": "discoveryservice",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-PhotoappwebclientApplication<photoappwebclient>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appdeveloperblog.ws.client.photoappwebclient.PhotoappwebclientApplication",
+            "projectName": "photoappwebclient",
+            "args": ""
         }
     ]
 }
