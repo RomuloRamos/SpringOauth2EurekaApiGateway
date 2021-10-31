@@ -69,6 +69,16 @@
             "mainClass": "com.appsdeveloperblog.clients.sociallogin.sociallogingwebclient.SociallogingwebclientApplication",
             "projectName": "sociallogingwebclient",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpaExampleApplication<spa-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appsdeveloperblog.oauth.spaexample.SpaExampleApplication",
+            "projectName": "spa-example",
+            "args": ""
         }
     ]
 }
