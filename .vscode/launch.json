@@ -59,6 +59,16 @@
             "mainClass": "com.appdeveloperblog.ws.client.photoappwebclient.PhotoappwebclientApplication",
             "projectName": "photoappwebclient",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SociallogingwebclientApplication<sociallogingwebclient>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.appsdeveloperblog.clients.sociallogin.sociallogingwebclient.SociallogingwebclientApplication",
+            "projectName": "sociallogingwebclient",
+            "args": ""
         }
     ]
 }
